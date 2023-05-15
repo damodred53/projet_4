@@ -1,0 +1,31 @@
+mettre date des taches sur trello OK
+
+attribuer à une perosnne bien précise  OK
+
+planifier le tarif comme une tâche - comme une sous tache   OK
+
+ajouter une date - à la spécification technique   OK
+
+Dans trello, enlever priorité et mettre p1    OK
+
+Mettre sur une ligne les différents besoins, les regrouper
+remplir toutes les colonnes et les contraintes    OK
+
+services tiers : api instagram - api deliveroo - mon api -  OK
+
+Mettre des mises à jour si bug et maj tous les deux jours technicien vont accompagner gratuitement pendant 1 mois, les autres bugs seront facturés et aussi pour les nouvelles fonctionnalités : indiquer un montant   OK
+
+pas créer une tache tarif, mettre en sous tache dans la landing page   OK
+
+ajouter slide : le plan de communication = comment qwenta et webagency programmer des rendez-vous : avec qui ? quel format de rdv master scrum , chef de projet , responsable dev ? en visio présentation des taches, des questions, 
+
+--- copier - coller du plan de communication
+
+ un plan de communication entre Webgencia 
+et Qwenta du début à la fin du projet.
+
+   Le plan de communication décrit les points suivants :
+
+la fréquence des rendez-vous entre les deux entreprises (quand) ;
+les personnes concernées par les rendez-vous (qui) ;
+le format des rendez-vous (comment).
